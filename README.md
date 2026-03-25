@@ -6,4 +6,5 @@
 - Created DAX measures for key metrics and calculations
 - Ensured data accuracy, consistency, and reliability for reporting
 
-<img width="1429" height="788" alt="image" src="https://github.com/user-attachments/assets/d1718291-7f71-4e8d-b69a-98e1c9b5895d" />
+<img width="1428" height="801" alt="image" src="https://github.com/user-attachments/assets/ef820df7-635c-4df7-b529-61b0fca0760d" />
+
